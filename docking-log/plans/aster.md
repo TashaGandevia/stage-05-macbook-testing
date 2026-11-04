@@ -5,7 +5,7 @@
 
 Ship: Aster
 Date: 2085-12-08
-Expected: 20:10
+Expected: 22:40
 Proposed bay: Bay 3
 Status: Planned
 Condition: Berth subject to Maintenance releasing Bay 3.
