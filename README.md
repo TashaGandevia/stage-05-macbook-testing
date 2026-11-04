@@ -18,7 +18,21 @@ here; you send your changes back with Git.
 <!-- gitquest:progress:start -->
 ## Your shift
 
-Not started yet. Open **Actions → Station control → Run workflow** to begin.
+| Mission | Task | Status |
+|---|---|---|
+| **M14 · On the Other End** | M14.1 · Take the request | Up next |
+|  | M14.2 · Open a pull request | Up next |
+|  | M14.3 · Check and merge | Up next |
+| **M15 · A Green Check** | M15.1 · Send the handover draft | Up next |
+|  | M15.2 · Fix the failed check | Up next |
+|  | M15.3 · Report the discrepancy | Up next |
+|  | M15.4 · Answer the review and merge | Up next |
+| **M16 · Leave It for the Next Shift** | M16.1 · Review Mika's pull request | Up next |
+|  | M16.2 · Approve and merge | Up next |
+|  | M16.3 · Write the final handover | Up next |
+|  | M16.4 · Hand it over | Up next |
+
+Updated by Station control each time a task is done.
 <!-- gitquest:progress:end -->
 
 ## Quick start
