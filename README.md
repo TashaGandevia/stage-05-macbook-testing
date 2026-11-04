@@ -20,8 +20,8 @@ here; you send your changes back with Git.
 
 | Mission | Task | Status |
 |---|---|---|
-| **M14 · On the Other End** | M14.1 · Take the request | **Current:** [#1](../../issues/1) |
-|  | M14.2 · Open a pull request | Up next |
+| **M14 · On the Other End** | M14.1 · Take the request | Done ([#1](../../issues/1)) |
+|  | M14.2 · Open a pull request | **Current:** [#2](../../issues/2) |
 |  | M14.3 · Check and merge | Up next |
 | **M15 · A Green Check** | M15.1 · Send the handover draft | Up next |
 |  | M15.2 · Fix the failed check | Up next |
